@@ -14,7 +14,3 @@ The datasets are taken from:
 * Documentation: https://umap-learn.readthedocs.io/en/latest/
 
 * Some examples: https://pair-code.github.io/understanding-umap/
-
-
-
-"# Manifold_Learning" 
